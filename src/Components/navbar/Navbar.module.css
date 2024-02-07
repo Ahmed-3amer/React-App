@@ -1,0 +1,19 @@
+.navText {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 576px) {
+    .navText {
+        font-size: 25px;
+    }
+}
+
+.textSize {
+    font-weight: 700;
+}
+
+.navBgColor {
+    background-color: #2C3E50;
+}
+

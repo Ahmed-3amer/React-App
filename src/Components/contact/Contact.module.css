@@ -1,0 +1,23 @@
+.textColor {
+    color: #2C3E50;
+}
+
+.lineBg {
+    background-color: #2C3E50;
+}
+
+.contactBtn {
+    color: #fff;
+    padding-block: 7px;
+    padding-inline: 10px;
+    background-color: #1ABC9C;
+    border: none;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 576px) {
+    .container {
+        width: 75%;
+    }
+}
+
